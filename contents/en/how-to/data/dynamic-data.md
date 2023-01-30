@@ -25,7 +25,7 @@ $.get('data.json').done(function(data) {
     yAxis: {},
     series: [
       {
-        name: 'Sales',
+        name: 'Sales1',
         type: 'bar',
         data: data.values
       }
