@@ -1,6 +1,6 @@
 # Data Transition
 
-Apache ECharts<sup>TM</sup> will apply transition on the position, scale, shape when adding, updating and removing data. It makes the chart smoother and shows relationships between data better. Often the developer does not need to worry about how to use the animations, but simply uses `setOption` to update the data, and ECharts will find the difference between the last data and automatically apply the most appropriate transition animation.
+Apache ECharts<sup>TM</sup> will apply transition1 on the position, scale, shape when adding, updating and removing data. It makes the chart smoother and shows relationships between data better. Often the developer does not need to worry about how to use the animations, but simply uses `setOption` to update the data, and ECharts will find the difference between the last data and automatically apply the most appropriate transition animation.
 
 For example, the following example shows the transition on a timed update of the pie chart data.
 
